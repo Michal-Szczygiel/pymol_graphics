@@ -52,4 +52,4 @@ for vert_face, norm_face in zip(vert_faces, norm_faces):
 shape.append(cgo.END)
 
 cmd.load_cgo(shape, 'teapot_solid')
-cmd.set("cgo_transparency", 0.5, "teapot_solid")
+cmd.set("cgo_transparency", 0.0, "teapot_solid")
