@@ -1,4 +1,4 @@
-# To repozytorium zawiera skrypty rysujące grafikę opartą o wierzchołki przy użyciu protokołu CGO (PyMOL). Poniżej znajdują się przykłady graficzne:
+# To repozytorium zawiera skrypty rysujące grafikę opartą o wierzchołki przy użyciu protokołu CGO (PyMOL). Poniżej znajdują się przykłady:
 
 ![](https://github.com/Michal-Szczygiel/pymol_graphics/blob/master/images/teapot.png)
 Przykład z rysowaniem ocieniowanej grafiki 3D (solid)
